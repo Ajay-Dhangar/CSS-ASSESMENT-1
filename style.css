@@ -58,6 +58,7 @@ a {
   display: flex;
   text-align: center;
   background-color: black;
+  font-style: italic;
 }
 .col {
   background-color: lightgray;
