@@ -1,0 +1,75 @@
+body {
+  background-color: lightgrey;
+}
+.container-top {
+  display: flex;
+}
+.col-1 {
+  margin: 30px;
+}
+.home img {
+  font-weight: bold;
+  width: 30px;
+}
+.html {
+  margin-left: 200px;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+.css {
+  margin-left: 20px;
+  font-weight: bold;
+}
+.react {
+  margin-left: 20px;
+  font-weight: bold;
+}
+.search {
+  margin-left: 200px;
+}
+.search img {
+  font-weight: bold;
+  width: 30px;
+}
+.log-in img {
+  font-weight: bold;
+  width: 30px;
+}
+.log-in {
+  margin-left: 100px;
+}
+.log-out img {
+  font-weight: bold;
+  width: 30px;
+}
+.log-out {
+  margin-left: 100px;
+}
+.line-3 img {
+  font-weight: bold;
+  width: 30px;
+}
+.line-3 {
+  margin-left: 100px;
+}
+.container {
+  display: flex;
+  text-align: center;
+  background-color: black;
+}
+.col {
+  background-color: lightgray;
+  margin: 10px;
+}
+.col:hover {
+  background-color: red;
+  color: yellow;
+}
+p {
+  margin-bottom: 100px;
+}
+h1 {
+  text-align: center;
+}
